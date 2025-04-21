@@ -1,6 +1,5 @@
 # cs624-pe02-Christian
 
-# CS624_PE02_NguyenGiang
 # Input
 The input contains an incon on the top of the page, 8 core, 2 depth of study, and 1 capstone course
 The core components at least once – View, Text, ScrollView, Image, TextInput, and StyleSheet
